@@ -9,9 +9,11 @@
     <samp>Languages I have learned and am interested in</samp>
 <div> -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-black?style=flat-quare&labelColor=black&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/sitem-baris/)
-
-  <img src="https://komarev.com/ghpvc/?username=Sbars1&color=000000">
- 
 
 <!--[![Wakatime Badge](https://img.shields.io/badge/-Wakatime-black?style=flat-quare&labelColor=black&logo=wakatime&logoColor=white&link=link)](https://wakatime.com)-->
+
+     
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-black?style=flat-quare&labelColor=black&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/sitem-baris/)
+ <a href="https://github.com/Sbars1/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=Sbars1&color=000000">
+</a>
