@@ -1,6 +1,6 @@
 <div align="left"> 
     <samp> Hi, I'm Sbars </samp> <br/>
-    <samp> Junior Backend Developer </samp> <br/>
+    <samp> Junior Developer </samp> <br/>
     <samp> - I'm working on developing myself in the backend field as best as I can. </samp>
  <div> 
 <br>
